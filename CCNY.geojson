@@ -79,6 +79,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-name": "CCNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95009040832518,
+          40.819460500103915
+        ]
+      }
     }
   ]
 }
